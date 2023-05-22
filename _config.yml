@@ -1,24 +1,24 @@
-title:              마스터키의 세상사는 이야기
-email:              email
-description:        글쓰는걸 좋아하는 마스터키의 세상사는 이야기 블로그입니다. 방문해주셔서 감사합니다.
-author:             마스터키
-baseurl:            "/linkmongsss"
-url:                "https://linkmongsss.github.io"
+title: 마스터키의 세상사는 이야기
+email: email
+description: 글쓰는걸 좋아하는 마스터키의 세상사는 이야기 블로그입니다. 방문해주셔서 감사합니다.
+author: 마스터키
+baseurl: "/linkmongsss"
+url: "https://linkmongsss.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
+twitter_username: SBootstrap
+github_username: StartBootstrap
+facebook_username: StartBootstrap
+instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics: UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
